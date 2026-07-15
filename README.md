@@ -11,7 +11,7 @@ An AI-powered web application that generates personalized networking conversatio
 - Feedback logging
 
 ## Tech Stack
-- Python
+- python
 - FastAPI
 - Streamlit
 - Hugging Face Transformers
